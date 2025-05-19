@@ -125,4 +125,7 @@ pip install -r requirements.txt
 
 For more details on the diffusion model and its implementation, refer to the comments in `ddpm.py`.
 
+Refer to [CS726_A1](https://github.com/SnarkyGoblin123/CS726_A1) for Message parsing Algorithms on Undirected Graphical Models
+
+
 
