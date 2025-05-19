@@ -127,5 +127,7 @@ For more details on the diffusion model and its implementation, refer to the com
 
 Refer to [CS726_A1](https://github.com/SnarkyGoblin123/CS726_A1) for Message parsing Algorithms on Undirected Graphical Models
 
+Refer to [CS726_A3](https://github.com/SnarkyGoblin123/CS726_A3) for various decoding strategies used in LLM
+
 
 
